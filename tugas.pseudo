@@ -1,0 +1,9 @@
+DECLARE Angka : INTEGER
+
+INPUT Angka
+
+IF Angka MOD 2 == 0 THEN
+   OUTPUT "Bilangan Genap"
+ELSE
+   OUTPUT "Bilangan Ganjil"
+ENDIF

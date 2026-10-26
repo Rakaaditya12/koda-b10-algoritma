@@ -25,8 +25,8 @@
     E((Selesai))
 
     A --> B
-    B -- true --> C
-    B -- false --> D
+    B -- ya --> C
+    B -- tidak --> D
     C --> E
     D --> E
 ```
